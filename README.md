@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **ROS2, OpenCv, Tensorflow**
 
-- 🌱 I’m currently learning **Robotics Operating System 2**
+- 🌱 I’m currently learning **Deep Learning and 3D Computer Vision**
 
-- 💬 Ask me about **tensorflow, pandas, AI algorithms**
+- 💬 Ask me about **Deep Learning, Medical Robotics, Machine Learning, Computer Vision**
 
 - 📫 How to reach me **amaryanmishra21@gmail.com**
 
