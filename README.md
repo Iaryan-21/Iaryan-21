@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ROS2, OpenCv, Tensorflow, 3D Computer Vision**
 
-- :link: **https://www.aryanmishra.me/**
+- :link: Portfolio : **https://www.aryanmishra.me/**
 
 - 📫 Contact **amaryanmishra21@gmail.com**
 
