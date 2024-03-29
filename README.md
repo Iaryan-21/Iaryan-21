@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/iaryan21" target="blank"><img src="https://img.shields.io/twitter/follow/iaryan21?logo=twitter&style=for-the-badge" alt="iaryan21" /></a> </p>
 
-- 🔭 I’m currently working on **ROS2, OpenCv, Tensorflow**
+- 🔭 I’m currently working on **ROS2, OpenCv, Tensorflow, 3D Computer Vision**
 
-- 🌱 I’m currently learning **Deep Learning and 3D Computer Vision**
+- :link: **https://www.aryanmishra.me/**
 
-- 💬 Ask me about **Deep Learning, Medical Robotics, Machine Learning, Computer Vision**
-
-- 📫 How to reach me **amaryanmishra21@gmail.com**
+- 📫 Contact **amaryanmishra21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
