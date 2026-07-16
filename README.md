@@ -1,22 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aryan Mishra</h1>
 <h3 align="center">Statistics Student</h3>
 
-<p align="center">
-  <a href="https://twitter.com/iaryan21" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/iaryan21?logo=twitter&style=for-the-badge" alt="iaryan21" />
-  </a>
-</p>
-
-- 🔭 Field:  **Deep Learning, ROS, Multimodal Models, 3D Computer Vision**
+- 🔭 Field:  **Deep Learning, Statistics, Mathematics**
 
 - 📫 Email: **amaryanmishra21@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/iaryan21" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaryan21" height="30" width="40" />
   </a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
