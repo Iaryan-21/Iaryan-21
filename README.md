@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Mishra</h1>
-<h3 align="center">A Deep Learning and Robotics Enthusiast</h3>
+<h3 align="center">Statistics Student</h3>
 
 <p align="center">
   <a href="https://twitter.com/iaryan21" target="_blank">
