@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Mishra</h1>
-<h3 align="center">Statistics Student</h3>
+<!-- <h3 align="center">Statistics Student</h3> -->
 
 - 🔭 Field:  **Deep Learning, Statistics, Mathematics**
 
